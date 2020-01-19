@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1229 -614 501.132 491.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2b2b2d;
+        stroke: #191717;
+        stroke-width: 40px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #95989a;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #52474c;
+      }
+
+      .cls-4 {
+        stroke: #51484d;
+      }
+
+      .cls-5 {
+        opacity: 0.25;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        filter: url(#Ellipse_1);
+      }
+    </style>
+    <filter id="Ellipse_1" x="1229" y="-614" width="501.132" height="491.1" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(0 -819)">
+    <g id="slider_button" data-name="slider button" transform="translate(-389 -37)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 389, 856)">
+        <g id="Ellipse_1-2" data-name="Ellipse 1" class="cls-1" transform="translate(1229 -614)">
+          <ellipse class="cls-6" cx="244.066" cy="241.55" rx="244.066" ry="241.55"/>
+          <ellipse class="cls-7" cx="244.066" cy="241.55" rx="224.066" ry="221.55"/>
+        </g>
+      </g>
+      <g id="Ellipse_1-3" data-name="Ellipse 1" class="cls-2" transform="translate(1625.774 483.55)">
+        <ellipse class="cls-6" cx="12.581" cy="12.581" rx="12.581" ry="12.581"/>
+        <ellipse class="cls-7" cx="12.581" cy="12.581" rx="12.081" ry="12.081"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-3" transform="translate(1852.485 250.097)">
+        <ellipse class="cls-6" cx="12.581" cy="12.581" rx="12.581" ry="12.581"/>
+        <ellipse class="cls-7" cx="12.581" cy="12.581" rx="12.081" ry="12.081"/>
+      </g>
+      <g id="Ellipse_4" data-name="Ellipse 4" class="cls-3" transform="translate(1849.485 693.842)">
+        <ellipse class="cls-6" cx="12.581" cy="12.581" rx="12.581" ry="12.581"/>
+        <ellipse class="cls-7" cx="12.581" cy="12.581" rx="12.081" ry="12.081"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" class="cls-4" transform="translate(2074.552 483.55)">
+        <ellipse class="cls-6" cx="12.581" cy="12.581" rx="12.581" ry="12.581"/>
+        <ellipse class="cls-7" cx="12.581" cy="12.581" rx="12.081" ry="12.081"/>
+      </g>
+    </g>
+    <g id="Group_1" data-name="Group 1">
+      <line id="Line_1" data-name="Line 1" class="cls-5" y1="133" x2="326" transform="translate(1279.5 326.5)"/>
+      <line id="Line_3" data-name="Line 3" class="cls-5" y1="121" x2="294" transform="translate(1289.5 306.5)"/>
+      <line id="Line_7" data-name="Line 7" class="cls-5" y1="104" x2="263" transform="translate(1298.5 283.5)"/>
+      <line id="Line_10" data-name="Line 10" class="cls-5" y1="89" x2="226" transform="translate(1299.5 265.5)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-5" y1="145" x2="349" transform="translate(1289.5 354.5)"/>
+      <line id="Line_4" data-name="Line 4" class="cls-5" y1="145" x2="349" transform="translate(1298.5 387.5)"/>
+      <line id="Line_5" data-name="Line 5" class="cls-5" y1="135" x2="328" transform="translate(1319.5 427.5)"/>
+      <line id="Line_6" data-name="Line 6" class="cls-5" y1="127" x2="308" transform="translate(1339.5 460.5)"/>
+      <line id="Line_8" data-name="Line 8" class="cls-5" y1="118" x2="281" transform="translate(1374.5 492.5)"/>
+      <line id="Line_9" data-name="Line 9" class="cls-5" y1="104" x2="244" transform="translate(1403.5 524.5)"/>
+    </g>
+  </g>
+</svg>
